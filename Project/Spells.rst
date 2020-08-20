@@ -46,7 +46,6 @@ A caster cannot use a seal tha release a kind of mana that he did not mastered, 
 
 
 
-
 Live release
 ------------
 
@@ -65,6 +64,13 @@ by magic, for example, if some seal is added to the sequence of seals, the magic
 the activation can be delayed in time.
 
 
+Vocalising
+----------
+
+Vocalizations are peculiar spells casted by bards.
+These spells alter conditions. They vary from inflicting negative or positive conditions to people, to even affect weather.
+They are casted without seals, by the successful vocal intonation of the spell.
+The sound emitted by bards when they cast this kind of magic resemble the a Tibetan mantra.
 
 
 Ninjutzu
@@ -103,7 +109,7 @@ Prays
 Prists can cast spells through prays. 
 Their effect is mostly of healing and increasing abilities of allies. Prays of monks are of self-effect, they can expand monks abilities far beyond uman abilities, they include automatic self-healing, increase of strenght, physical resistance and mental resistance.
 
-There are few preys that can deal damage to enemies, and these are the *exorcisms*. However, *exorcisms* have effect only against
+There are few preys that can deal damage to enemies, and these are the *exorcisms*. However, *exorcisms* have effect only against deamons or angels. 
 
 
 
